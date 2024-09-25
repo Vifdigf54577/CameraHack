@@ -15,7 +15,7 @@ echo -e "\e[91m --- Camera Phish Current Version 1.0 | Coded By: DarkWinzo ---\e
 echo -e "\e[34m\"Copying or Tampering is strictly Prohibited,"
 echo -e " Do not use this for illegle activities..If such an incident happens for any reason,you are responsible for it.\"\e[0m"
 echo -e " -\e[90m(https://github.com/DarkWinzo)\e[0m\n"
-echo -e "  \e[34m Contact Me(Whatsapp)=Wa.me\+94775200935\e[0m"
+echo -e "  \e[34m Contact Me(Whatsapp)=Wa.me\+917068715523\e[0m"
 }
 
 dependencies() {
